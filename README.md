@@ -2,8 +2,8 @@
 
 A clean, fast, sushi-flavored landing page built with **Vite**, semantic HTML, and BEM-style CSS. Focused on great structure, accessibility, and easy deployment.
 
-> Live demo: **[Add Netlify/Vercel/GitHub Pages link here](https://sushi-themed-website-tasos.netlify.app/)**  
-> Lighthouse: [./assets/lighthouse.png]
+> Live demo: **[https://sushi-themed-website-tasos.netlify.app/](https://sushi-themed-website-tasos.netlify.app/)**  
+> Lighthouse: [./assets/lighthouse.png](./assets/lighthouse.png)
 
 ---
 
