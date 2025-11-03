@@ -11,7 +11,8 @@
   padding: 20px;
 }
 
-.header__logo-overlay {
+.header__logo::after {
+  content: "";
   position: absolute;
   inset: 0;
   width: 100%;
